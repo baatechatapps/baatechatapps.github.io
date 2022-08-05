@@ -21,15 +21,6 @@
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
-            },
-            {
-                "MonetizationId": 2,
-                "MonetizerName": "AdMob",
-                "AdAppKey": "ca-app-pub-1993362206897244~3786214454",
-                "BannerAdKey": "ca-app-pub-1993362206897244/2169880451",
-                "InterstitialAdKey": "ca-app-pub-1993362206897244/6284385280",
-                "RewardedAdKey": "ca-app-pub-1993362206897244/5534410397",
-                "NativeAdKey": "ca-app-pub-3940256099942544/1044960115"
             }
         ]
     },
