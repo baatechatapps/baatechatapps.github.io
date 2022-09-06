@@ -7,21 +7,12 @@
             {
 				"MonetizationId": 2,
 				"MonetizerName": "AdMob",
-				"AdAppKey": "AdManager",
+				"AdAppKey": "AD_MANAGER_APP",
 				"BannerAdKey": "/22812262693/com.baatechat.blackwhite.swip.call.banner",
 				"InterstitialAdKey": "/22812262693/com.baatechat.blackwhite.swip.call.interstitial",
 				"RewardedAdKey": "",
 				"NativeAdKey": "/22812262693/com.baatechat.blackwhite.swip.call.native"
 			},
-            {
-                "MonetizationId": 6,
-                "MonetizerName": "ironSource",
-                "AdAppKey": "156b2c629",
-                "BannerAdKey": "",
-                "InterstitialAdKey": "",
-                "RewardedAdKey": "",
-                "NativeAdKey": ""
-            },
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
