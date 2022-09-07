@@ -1,2 +1,3 @@
 facebook.com, 531458331336689, DIRECT, c3e20eee3f780d68
 facebook.com, 997586857555604, DIRECT, c3e20eee3f780d68
+google.com, pub-7214918441375018, DIRECT, f08c47fec0942fa0
