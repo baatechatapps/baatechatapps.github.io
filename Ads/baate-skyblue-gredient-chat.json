@@ -5,13 +5,13 @@
         "ShowAds": true,
         "Ads": [
             {
-				"MonetizationId": 1,
-				"MonetizerName": "Facebook Monetization",
-				"AdAppKey": "377279027667386",
-				"BannerAdKey": "377279027667386_377284607666828",
-				"InterstitialAdKey": "377279027667386_377284657666823",
-				"RewardedAdKey": "377279027667386_377284731000149",
-				"NativeAdKey": ""
+				"MonetizationId": 2,
+				"MonetizerName": "AdMob",
+				"AdAppKey": "AD_MANAGER_APP",
+				"BannerAdKey": "/22812262693/com.baatechat.skybluegredient.chat.fonts.banner",
+				"InterstitialAdKey": "/22812262693/com.baatechat.skybluegredient.chat.fonts.interstitial",
+				"RewardedAdKey": "",
+				"NativeAdKey": "/22812262693/com.baatechat.skybluegredient.chat.fonts.native"
 			},
             {
                 "MonetizationId": 6,
