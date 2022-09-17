@@ -5,6 +5,15 @@
         "ShowAds": true,
         "Ads": [
             {
+                "MonetizationId": 10,
+                "MonetizerName": "AppBrain",
+                "AdAppKey": "",
+                "BannerAdKey": "ban-20ad65",
+                "InterstitialAdKey": "int-201238",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            },
+            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "156b70b41",
