@@ -32,13 +32,13 @@
 				"NativeAdKey": ""
 			},
             {
-               "MonetizationId": 1,
-               "MonetizerName": "Facebook Monetization",
-               "AdAppKey": "448957729988462",
-               "BannerAdKey": "448957729988462_448958326655069",
-               "InterstitialAdKey": "448957729988462_448958413321727",
-               "RewardedAdKey": "448957729988462_448966489987586",
-               "NativeAdKey": ""
+                "MonetizationId": 10,
+                "MonetizerName": "AppBrain",
+                "AdAppKey": "",
+                "BannerAdKey": "ban-20fafc",
+                "InterstitialAdKey": "int-20a87f",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
             }
         ]
     },
