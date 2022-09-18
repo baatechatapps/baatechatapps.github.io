@@ -5,20 +5,20 @@
         "ShowAds": true,
         "Ads": [
             {
-                "MonetizationId": 10,
-                "MonetizerName": "AppBrain",
-                "AdAppKey": "",
-                "BannerAdKey": "ban-205706",
-                "InterstitialAdKey": "int-20c26f",
-                "RewardedAdKey": "",
-                "NativeAdKey": ""
-            },
-            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "15a510135",
                 "BannerAdKey": "",
                 "InterstitialAdKey": "",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            },
+            {
+                "MonetizationId": 10,
+                "MonetizerName": "AppBrain",
+                "AdAppKey": "",
+                "BannerAdKey": "ban-205706",
+                "InterstitialAdKey": "int-20c26f",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
             }
